@@ -1,8 +1,7 @@
 # FaceMatch-Project
-it is complete mobile app with backend in django , frontend in flutter.
-you just need to upload a image from mobile device , it goes django server where deep learning model available 
-it check the probablity of your image with other celebrity image face , and find the best probablity
-
+It is a complete mobile app with a Django backend and a Flutter frontend.
+you need to upload an image from a mobile device, it goes to the django server where a deep learning model is available(VGGFace)
+it checks the probability of your image with other celebrity image face and finds the best probability
 install all packages
 django
 django-rest
